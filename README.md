@@ -1,1 +1,1 @@
-# cohort_48_2_git_practice
+# my_first_git_practice
